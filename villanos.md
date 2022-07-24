@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Venom
+* Dr. Mangel
